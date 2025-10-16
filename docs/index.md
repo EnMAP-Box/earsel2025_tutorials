@@ -3,9 +3,15 @@
 EnMAP Tutorials at [14th EARSeL Workshop on Imaging Spectroscopy](https://is.earsel.org/workshop/14-IS-Helsinki2026/), 2-4 June 2026, Helsinki, Finland.
 
 
-# Preliminaries
- *Please install the conda environment to run the EnMAP-Box and EnMAP preprocessing tools*
+# Prerequisites
 
+Participants need to bring their own Laptop.
+Please install the required software in advance, following the
+[installation guide](prerequisites.md).
+
+
+
+# Schedule
 ## Part I (09:00 - 11:30)
 
 * 09:00 - 09:30: [Installation of required software](tut_installation.md)
